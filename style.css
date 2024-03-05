@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b8a7b2;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #e0a7cd;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #9a3535;
+    text-align: left;
+}
+th {
+    background-color: #7277d2;
+}
+canvas {
+    display: none;
+}
